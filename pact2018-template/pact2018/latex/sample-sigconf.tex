@@ -38,13 +38,12 @@
 
 
 \begin{document}
-\title{SIG Proceedings Paper in LaTeX Format}
+\title{Predicting Loop Parallelisability Using Supervised Learning}
 \titlenote{Produces the permission block, and
   copyright information}
 \subtitle{Extended Abstract}
 \subtitlenote{The full version of the author's guide is available as
   \texttt{acmart.pdf} document}
-
 
 \author{Aleksandr Maramzin}
 \authornote{Dr.~Trovato insisted his name to be first.}
@@ -111,9 +110,7 @@
 
 
 \begin{abstract}
-This paper provides a sample of a \LaTeX\ document which conforms,
-somewhat loosely, to the formatting guidelines for
-ACM SIG Proceedings.\footnote{This is an abstract footnote}
+All modern hardware is highly parallel, but in order to fully utilise availability of all these resources software must be parallel as well. There are numerous approaches to the task of software parallelisation ranging from manual approaches to fully automatic ones. In this work we investigate a relatively new semi-automated approach to the task of software parallelisation: a machine learning assisted one. We use a version of NAS Parallel Benchmarks annotated with OpenMP parallelisation pragmas to train our model to predict loop parallelisability. We achieve 93\% generalised prediction accuracy with a baseline (random predictor) around 60\%. We study parallelisability of NAS benchmarks and its utilisation with Intel C/C++ Compiler (ICC) and propose a scheme, which might be used to supplement ICC with a ML-based tool. Proposed scheme increases ICC parallelisation coverage in the NAS Parallel Benchmarks from 86\% to 99\% and comes close to its algorithmic limit. After that we show, that for majority of NAS benchmarks this parallelisation coverage increase transforms into the actual performance improvements as well. We achieve an average speedup of 2.5x relative to the state-of-the-art parallelising Intel C/C++ compiler and come closer to 3.5x average speedup of the expert hand-parallelised version.    
 \end{abstract}
 
 %

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.12)  23 JAN 2019 15:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.12)  1 FEB 2019 15:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -725,7 +725,7 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for TS1+cmss on input line 158
+LaTeX Font Info:    Try loading font information for TS1+cmss on input line 155
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
@@ -743,20 +743,23 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 Package hyperref Warning: Option `pdflang' has already been used,
-(hyperref)                setting the option has no effect on input line 158.
+(hyperref)                setting the option has no effect on input line 155.
 
 
 Package hyperref Warning: Option `pdfdisplaydoctitle' has already been used,
-(hyperref)                setting the option has no effect on input line 158.
+(hyperref)                setting the option has no effect on input line 155.
 
 (./samplebody-conf.tex [1.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
+Underfull \vbox (badness 3271) has occurred while \output is active []
+
+ [2.2]
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 58.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 87.
 
-LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 62.
+LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 91.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmtt.fd
 File: ts1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -766,22 +769,23 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (8.6358pt too wide) in paragraph at lines 58--73
+Overfull \hbox (8.6358pt too wide) in paragraph at lines 87--102
 \OT1/cmr/m/n/10 (-20) tions in con-text. No-tice how this equa-tion: $[][] \OML
 /cmm/m/it/10 x \OT1/cmr/m/n/10 (-20) =
  []
 
 
-Overfull \hbox (26.03625pt too wide) in paragraph at lines 75--79
- \OT1/cmss/m/sl/10 (-20) 2.2.2 Dis-play Equa-tions.[] \OT1/cmr/m/n/10 (-20) A n
+Overfull \hbox (26.03625pt too wide) in paragraph at lines 104--108
+ \OT1/cmss/m/sl/10 (-20) 6.2.2 Dis-play Equa-tions.[] \OT1/cmr/m/n/10 (-20) A n
 um-bered dis-play equation---
  []
 
-[2.2]
-Overfull \hbox (30.96408pt too wide) in paragraph at lines 174--184
+[3.3]
+Overfull \hbox (30.96408pt too wide) in paragraph at lines 203--213
  [][] 
  []
 
+[4.4]
 Package epstopdf Info: Source file: <fly.eps>
 (epstopdf)                    date: 2018-04-03 09:05:11
 (epstopdf)                    size: 155104 bytes
@@ -790,12 +794,12 @@ Package epstopdf Info: Source file: <fly.eps>
 (epstopdf)                    size: 4222 bytes
 (epstopdf)             Command: <repstopdf --outfile=fly-eps-converted-to.pdf f
 ly.eps>
-(epstopdf)             \includegraphics on input line 235.
+(epstopdf)             \includegraphics on input line 264.
 Package epstopdf Info: Output file is already uptodate.
-<fly-eps-converted-to.pdf, id=203, 34.1275pt x 32.12pt>
+<fly-eps-converted-to.pdf, id=248, 34.1275pt x 32.12pt>
 File: fly-eps-converted-to.pdf Graphic file (type pdf)
 <use fly-eps-converted-to.pdf>
-Package pdftex.def Info: fly-eps-converted-to.pdf  used on input line 235.
+Package pdftex.def Info: fly-eps-converted-to.pdf  used on input line 264.
 (pdftex.def)             Requested size: 34.1274pt x 32.1199pt.
 Package epstopdf Info: Source file: <fly.eps>
 (epstopdf)                    date: 2018-04-03 09:05:11
@@ -805,21 +809,21 @@ Package epstopdf Info: Source file: <fly.eps>
 (epstopdf)                    size: 4222 bytes
 (epstopdf)             Command: <repstopdf --outfile=fly-eps-converted-to.pdf f
 ly.eps>
-(epstopdf)             \includegraphics on input line 240.
+(epstopdf)             \includegraphics on input line 269.
 Package epstopdf Info: Output file is already uptodate.
 File: fly-eps-converted-to.pdf Graphic file (type pdf)
 <use fly-eps-converted-to.pdf>
-Package pdftex.def Info: fly-eps-converted-to.pdf  used on input line 240.
+Package pdftex.def Info: fly-eps-converted-to.pdf  used on input line 269.
 (pdftex.def)             Requested size: 72.27492pt x 72.27565pt.
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 242.
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 271.
 
-Underfull \hbox (badness 5331) in paragraph at lines 242--242
+Underfull \hbox (badness 5331) in paragraph at lines 271--271
 []\OT1/cmr/bx/n/10 Figure 2: |A sam-ple black and white
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 242--242
+Underfull \hbox (badness 1584) in paragraph at lines 271--271
 \OT1/cmr/bx/n/10 graphic that has been re-sized with the
  []
 
@@ -831,12 +835,12 @@ Package epstopdf Info: Source file: <flies.eps>
 (epstopdf)                    size: 9687 bytes
 (epstopdf)             Command: <repstopdf --outfile=flies-eps-converted-to.pdf
  flies.eps>
-(epstopdf)             \includegraphics on input line 253.
+(epstopdf)             \includegraphics on input line 282.
 Package epstopdf Info: Output file is already uptodate.
-<flies-eps-converted-to.pdf, id=204, 307.1475pt x 114.4275pt>
+<flies-eps-converted-to.pdf, id=249, 307.1475pt x 114.4275pt>
 File: flies-eps-converted-to.pdf Graphic file (type pdf)
 <use flies-eps-converted-to.pdf>
-Package pdftex.def Info: flies-eps-converted-to.pdf  used on input line 253.
+Package pdftex.def Info: flies-eps-converted-to.pdf  used on input line 282.
 (pdftex.def)             Requested size: 307.14674pt x 114.42722pt.
 Package epstopdf Info: Source file: <rosette.eps>
 (epstopdf)                    date: 2018-04-03 09:05:11
@@ -846,25 +850,25 @@ Package epstopdf Info: Source file: <rosette.eps>
 (epstopdf)                    size: 2932 bytes
 (epstopdf)             Command: <repstopdf --outfile=rosette-eps-converted-to.p
 df rosette.eps>
-(epstopdf)             \includegraphics on input line 260.
+(epstopdf)             \includegraphics on input line 289.
 Package epstopdf Info: Output file is already uptodate.
-<rosette-eps-converted-to.pdf, id=205, 364.59212pt x 364.59212pt>
+<rosette-eps-converted-to.pdf, id=250, 364.59212pt x 364.59212pt>
 File: rosette-eps-converted-to.pdf Graphic file (type pdf)
 <use rosette-eps-converted-to.pdf>
-Package pdftex.def Info: rosette-eps-converted-to.pdf  used on input line 260.
+Package pdftex.def Info: rosette-eps-converted-to.pdf  used on input line 289.
 (pdftex.def)             Requested size: 72.26622pt x 72.26622pt.
 
-Underfull \hbox (badness 5331) in paragraph at lines 262--262
+Underfull \hbox (badness 5331) in paragraph at lines 291--291
 []\OT1/cmr/bx/n/10 Figure 4: |A sam-ple black and white
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 262--262
+Underfull \hbox (badness 1584) in paragraph at lines 291--291
 \OT1/cmr/bx/n/10 graphic that has been re-sized with the
  []
 
-[3.3 <./fly-eps-converted-to.pdf>]
-Overfull \hbox (53.26651pt too wide) detected at line 313
+
+Overfull \hbox (53.26651pt too wide) detected at line 342
 \OML/cmm/m/it/10 l \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML
 /cmm/m/it/10 x\OT1/cmr/m/n/10 ) = [] [] = [] \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 
 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^A [] [] \OT1/cmr/m/n/10
@@ -873,21 +877,25 @@ Overfull \hbox (53.26651pt too wide) detected at line 313
  []
 
 
-Overfull \hbox (1.96338pt too wide) in paragraph at lines 334--345
+Overfull \hbox (1.96338pt too wide) in paragraph at lines 363--374
 \OT1/cmr/m/n/10 (-20) The rules about hi-er-ar-chi-cal head-ings dis-cussed abo
 ve
  []
 
-[4.4 <./flies-eps-converted-to.pdf> <./rosette-eps-converted-to.pdf>]
-Processing 'acks' comment.
+[5.5 <./fly-eps-converted-to.pdf>] Processing 'acks' comment.
 \openout4 = `comment.cut'.
 
- Comment 'acks' writing to comment.cut.
-Straight input of comment.cut. (./comment.cut)) (./sample-sigconf.bbl
+
+Comment 'acks' writing to comment.cut. Straight input of comment.cut.
+(./comment.cut)) (./sample-sigconf.bbl
 LaTeX Info: Redefining \tempurl on input line 65.
 LaTeX Info: Redefining \tempurl on input line 91.
 LaTeX Info: Redefining \tempurl on input line 117.
 LaTeX Info: Redefining \tempurl on input line 176.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6.6 <./flies-eps-converted-to.pdf> <./rosette-eps-converted-to.pdf>]
 LaTeX Info: Redefining \tempurl on input line 196.
 LaTeX Info: Redefining \tempurl on input line 211.
 LaTeX Info: Redefining \tempurl on input line 225.
@@ -895,11 +903,10 @@ LaTeX Info: Redefining \tempurl on input line 277.
 LaTeX Info: Redefining \tempurl on input line 292.
 LaTeX Info: Redefining \tempurl on input line 339.
 LaTeX Info: Redefining \tempurl on input line 356.
+LaTeX Info: Redefining \tempurl on input line 401.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5.5]
-LaTeX Info: Redefining \tempurl on input line 401.
 LaTeX Info: Redefining \tempurl on input line 415.
 LaTeX Info: Redefining \tempurl on input line 428.
 
@@ -918,25 +925,23 @@ LaTeX Info: Redefining \tempurl on input line 537.
 LaTeX Info: Redefining \tempurl on input line 549.
 LaTeX Info: Redefining \tempurl on input line 561.
 LaTeX Info: Redefining \tempurl on input line 575.
-) [6.6
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
+) [7.7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
  (./sample-sigconf.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
 Package rerunfilecheck Info: File `sample-sigconf.out' has not changed.
-(rerunfilecheck)             Checksum: C02A63D643B3ECA6C9979BBBD4CA3F9C;2639.
+(rerunfilecheck)             Checksum: 41B0C7C4A16E95817C780382ADBAC8C7;3417.
  ) 
 Here is how much of TeX's memory you used:
- 16022 strings out of 494880
- 233240 string characters out of 6179601
- 372848 words of memory out of 5000000
- 18597 multiletter control sequences out of 15000+600000
- 30484 words of font info for 180 fonts, out of 8000000 for 9000
+ 16048 strings out of 494880
+ 233449 string characters out of 6179601
+ 374849 words of memory out of 5000000
+ 18601 multiletter control sequences out of 15000+600000
+ 31057 words of font info for 189 fonts, out of 8000000 for 9000
  197 hyphenation exceptions out of 8191
- 60i,11n,94p,805b,591s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,12n,94p,1342b,565s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/s1736883/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/tctt1000.
 600pk> </home/s1736883/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0
 800.600pk> </home/s1736883/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/t
@@ -971,10 +976,10 @@ nts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.p
 fb>
-Output written on sample-sigconf.pdf (6 pages, 427067 bytes).
+Output written on sample-sigconf.pdf (7 pages, 433254 bytes).
 PDF statistics:
- 484 PDF objects out of 1000 (max. 8388607)
- 391 compressed objects within 4 object streams
- 93 named destinations out of 1000 (max. 500000)
- 35508 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 506 PDF objects out of 1000 (max. 8388607)
+ 411 compressed objects within 5 object streams
+ 97 named destinations out of 1000 (max. 500000)
+ 35540 words of extra memory for PDF output out of 35830 (max. 10000000)
 
